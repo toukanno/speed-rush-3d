@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "Speed Rush 3D",
+    "slug": "speed-rush-3d",
+    "version": "1.0.0",
+    "orientation": "landscape",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#000000"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.masa.speedrush3d",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#000000"
+      },
+      "package": "com.masa.speedrush3d",
+      "versionCode": 1
+    },
+    "plugins": ["expo-gl"]
+  }
+}
