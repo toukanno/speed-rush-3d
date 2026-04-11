@@ -14,7 +14,7 @@
     "expo-three": "^8.0.0",
     "three": "~0.158.0",
     "react": "18.3.1",
-    "react-native": "0.76.6",
+    "react-native": "0.85.0",
     "react-native-gesture-handler": "~2.30.0",
     "expo-status-bar": "~2.0.0"
   },
